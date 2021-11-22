@@ -1,0 +1,56 @@
+body {
+  margin: 50px;
+  
+  background-color: teal;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+button{
+  background-color: maroon;
+  color: whitesmoke;
+  padding: 10px 25px;
+  margin: 2px;
+  width: auto;
+  border-radius: 25px;
+  border-color: whitesmoke;
+  cursor: pointer;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul{
+  list-style-type: disc;
+  
+}
+
+.taskbtn{
+  border-radius: 5px;
+  background-color: rgb(148, 5, 5);
+  padding: 10px;
+  width: 200px;
+  height: 75px;
+  margin: 7px;
+  cursor: pointer;
+  font-size: medium;
+}
+.addbutton{
+  font-weight: bold;
+  font-size: larger;
+  padding: 10px;
+  width: 100px;
+  height: 50px;
+  margin: 7px;
+  cursor: pointer;  
+}
+
+#input{
+  border-radius: 5px;
+  padding: 10px;
+  margin: 7px;
+  cursor: pointer;
+}
+
+.todotext{
+  padding: 5px;
+  margin: 7px;
+  border-radius: 5px;
+}
